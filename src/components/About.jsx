@@ -1,4 +1,4 @@
-import profile from "../assets/my-photo.jpg";
+import profile from "../assets/my-headshot.jpg";
 
 function About() {
   return (
@@ -17,8 +17,8 @@ function About() {
           <p>👋 Hi, I'm Ohenewaa.</p>
 
           <p>
-            I'm a fourth year Computer Science student at California State University, East Bay 
-            with a 3.95 GPA and a passion for building scalable and impactful technology.
+            I'm a Computer Science graduate from California State University, East Bay 
+            with Summa Cum Laude honors and a passion for building scalable and impactful technology.
           </p>
 
           <p>
@@ -27,8 +27,8 @@ function About() {
           </p>
 
           <p>
-            As an Undergraduate Research Assistant, I apply machine learning techniques 
-            using Python and scikit-learn to analyze and predict student success outcomes.
+            As an intern at Lawrence Berkeley National Labs, I gained hands-on experience in software development 
+            and collaborated with cross-functional teams to deliver high-quality solutions.
           </p>
 
           <p>

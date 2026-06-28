@@ -31,7 +31,7 @@ function Hero() {
               View Projects
             </a>
 
-            <a href="/resume.pdf" download className="btn-outline">
+            <a href="/2026 Resume Ohenewaa.pdf" download className="btn-outline">
               Download Resume
             </a>
           </div>
