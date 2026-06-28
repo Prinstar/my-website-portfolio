@@ -1,7 +1,16 @@
 import ProjectCard from "./ProjectCard";
-
+import rockPaperScissorsImg from "../assets/rock-paper-scissors.png"; 
 function Projects() {
   const projectList = [
+    {
+      title: "Card Deck Games Platform",
+      description:
+        "React and TypeScript web app featuring classic card games including Solitaire, Spades, Hearts, Spider Solitaire, and Poker.",
+      image:
+        "https://images.unsplash.com/photo-1606167668584-78701c57f13d",
+      link: "https://github.com/Prinstar/card-deck-games",
+      tech: ["React", "TypeScript", "Vite", "Material UI", "CSS"]
+    },
     {
       title: "E-Commerce Tech Store",
       description:
@@ -11,15 +20,15 @@ function Projects() {
       link: "https://github.com/Prinstar/prinstar.github.io",
       tech: ["   JavaScript ", "HTML ", "CSS "]
     },
-    {
-      title: "Social Media Analytics Dashboard",
-      description:
-        "Analytics platform visualizing engagement metrics with React, Node.js, and MongoDB.",
-      image:
-        "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
-      link: "https://github.com/Prinstar/SocialMediaAnalytics",
-      tech: ["     React ", " Node.js ", " MongoDB "]
-    },
+
+      {
+  title: "Rock Paper Scissors App",
+  description:
+    "Android application built in Kotlin where users play Rock, Paper, Scissors against the computer with real-time score tracking and interactive gameplay.",
+  image: rockPaperScissorsImg,
+  link: "https://github.com/Prinstar/RockPaperScissorsApp",
+  tech: ["Kotlin", "Android", "XML"]
+  },
     {
       title: "Food Ordering App",
       description:
